@@ -1,6 +1,6 @@
 # 🔍 Local Network Port Scan with Nmap
 
-This project documents the use of **Nmap** to scan a local machine on a virtualized network. The scan identifies open ports, services, and potential security risks. It’s part of my learning journey in **Cybersecurity* and **Network Reconnaissance**.
+This project documents the use of **Nmap** to scan a local machine on a virtualized network. The scan identifies open ports, services, and potential security risks. It’s part of my learning journey in **Cybersecurity** and **Network Reconnaissance**.
 
 ---
 
