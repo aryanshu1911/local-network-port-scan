@@ -26,4 +26,4 @@ This project documents the use of **Nmap** to scan a local machine on a virtuali
 ```bash
 nmap -A 192.168.1.X -oN scan_results.txt
 
-Note: The last octet of the target IP address has been masked with 'X' (e.g., 192.168.1.X) for privacy and security reasons.
+Note: The last octet of the target IP address has been masked with 'X' for privacy and security reasons.
